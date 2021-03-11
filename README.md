@@ -6,6 +6,10 @@
 
 Application created in first module Ignite ReactJS by Rocketseat to teach React Fundamentals and introduce Typescript.
 
+## Screenshot
+
+<img src="screenshot.png"/>
+
 ## Features
 
 This application request Github API and show all repositories by Rocketseat.
